@@ -4,13 +4,8 @@ A quiz made in python. Made for learning and experimenting. Rolling updated will
 
 ## Version
 
-v0.1
+v0.2
 
-## Goal for v0.1
-
-- Create project structure
-- Add first working version
-- Practice Python and GitHub workflow
 
 ## Technologies
 
@@ -22,7 +17,7 @@ v0.1
 
 ### v0.2 - 2026-06-22
 
-Test text. Update coming
+Made a command file, clickable to run the quiz in terminal
 
 
 ### v0.1 - 2026-06-22
